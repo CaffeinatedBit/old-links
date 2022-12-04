@@ -1,2 +1,1 @@
-# binarydigitcodes.github.io
-A homepage
+# Old BinaryDigit homepage
