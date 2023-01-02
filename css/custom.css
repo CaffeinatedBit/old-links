@@ -1,0 +1,9 @@
+.headerimg {
+    border-radius: 50%;
+  }
+
+/* Dark mode */
+.dark{
+  background-color: #222;
+  color: #e6e6e6;
+}
