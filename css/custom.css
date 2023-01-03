@@ -1,3 +1,8 @@
+body {
+  background-image: url("/img/pattern_bg.png");
+  background-repeat: repeat-x;
+}
+
 .headerimg {
     border-radius: 50%;
   }
