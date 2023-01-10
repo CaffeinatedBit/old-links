@@ -28,6 +28,7 @@
     "classless"
   ],
   "dependencies": {
+    "dracula-ui": "^1.0.3",
     "http-server": "^14.1.1"
   }
 }
