@@ -26,5 +26,8 @@
     "simplecss.org",
     "simplecss",
     "classless"
-  ]
+  ],
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
 }
